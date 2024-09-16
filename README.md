@@ -1,3 +1,4 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
+Satyam Jha says that learning git hub is amazing
+
